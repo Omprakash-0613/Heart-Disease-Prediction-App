@@ -34,3 +34,4 @@ It is NOT a medical diagnosis tool.
 
 ## Deployment
 This project is deployed using Render.
+https://heart-disease-prediction-app-qsgu.onrender.com
